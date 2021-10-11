@@ -1,0 +1,14 @@
+C:\Users\nijat\source\repos\GenericApp\GenericApp\bin\Debug\netcoreapp3.1\GenericApp.exe
+C:\Users\nijat\source\repos\GenericApp\GenericApp\bin\Debug\netcoreapp3.1\GenericApp.deps.json
+C:\Users\nijat\source\repos\GenericApp\GenericApp\bin\Debug\netcoreapp3.1\GenericApp.runtimeconfig.json
+C:\Users\nijat\source\repos\GenericApp\GenericApp\bin\Debug\netcoreapp3.1\GenericApp.runtimeconfig.dev.json
+C:\Users\nijat\source\repos\GenericApp\GenericApp\bin\Debug\netcoreapp3.1\GenericApp.dll
+C:\Users\nijat\source\repos\GenericApp\GenericApp\bin\Debug\netcoreapp3.1\GenericApp.pdb
+C:\Users\nijat\source\repos\GenericApp\GenericApp\obj\Debug\netcoreapp3.1\GenericApp.csproj.AssemblyReference.cache
+C:\Users\nijat\source\repos\GenericApp\GenericApp\obj\Debug\netcoreapp3.1\GenericApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijat\source\repos\GenericApp\GenericApp\obj\Debug\netcoreapp3.1\GenericApp.AssemblyInfoInputs.cache
+C:\Users\nijat\source\repos\GenericApp\GenericApp\obj\Debug\netcoreapp3.1\GenericApp.AssemblyInfo.cs
+C:\Users\nijat\source\repos\GenericApp\GenericApp\obj\Debug\netcoreapp3.1\GenericApp.csproj.CoreCompileInputs.cache
+C:\Users\nijat\source\repos\GenericApp\GenericApp\obj\Debug\netcoreapp3.1\GenericApp.dll
+C:\Users\nijat\source\repos\GenericApp\GenericApp\obj\Debug\netcoreapp3.1\GenericApp.pdb
+C:\Users\nijat\source\repos\GenericApp\GenericApp\obj\Debug\netcoreapp3.1\GenericApp.genruntimeconfig.cache
